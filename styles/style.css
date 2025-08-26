@@ -1,0 +1,21 @@
+.div1{
+    background-color: green;
+    color: white;
+    text-align: justify;
+    border: 3px solid greenyellow;
+    border-radius: 0px 80px 0px 80px;
+    
+}
+.img1{
+    margin-left: 400px;
+    padding: 100px;
+}
+.header1{
+    margin: 10px;
+    padding:10px;
+}
+.p1,li{
+    margin: 40px;
+    text:20px;
+
+}
